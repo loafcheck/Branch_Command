@@ -1,5 +1,4 @@
 # Branch_Command
-# branchtest / clone
 
 - 터미널 창 열기 </br>
 - github에서 repository 생성 -> code https 복사하기 (To clone the repository using HTTPS, under "HTTPS", click .)
